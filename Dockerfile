@@ -1,4 +1,4 @@
-# AlpineLinux for the raspberry pi 3, with glibc-2.23 and Oracle Java 8
+# AlpineLinux for the beaglebone black, with glibc-2.23 and Oracle Java 8
 # Based on https://github.com/anapsix/docker-alpine-java, for x86_64
 
 FROM resin/beaglebone-black-alpine:3.6
